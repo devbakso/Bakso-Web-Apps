@@ -4,4 +4,4 @@ Aplikasi ini dirancang untuk mengelola harga bakso, pembelian, dan berbagai fitu
 
 Untuk masuk kedalam aplikasi menggunakan username@soBakso.id dan password default `BaksoJaya2024!`. 
 
-Harap dicatat, untuk login tanpa menggunakan email `@soBakso.id`
+Harap dicatat, untuk login kedalam aplikasi username tanpa menggunakan email `@soBakso.id`
